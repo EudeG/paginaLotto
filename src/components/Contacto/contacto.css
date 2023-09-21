@@ -1,0 +1,21 @@
+.contacto{
+    padding: 5em 5em;
+    margin: 0em;
+    border: 0em;
+    background-image: url('../Imagenes/fondito.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100% ;
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.titulo {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-align: center;
+}
